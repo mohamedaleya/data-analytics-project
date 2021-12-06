@@ -2,11 +2,11 @@
 
 PROJECT BY:
 
-*ALEYA Mohamed*
+**ALEYA Mohamed**
 
-*RIAHI Alaa*
+**RIAHI Alaa**
 
-*BALI Aziz*
+**BALI Aziz**
 
 ## PART 1: FIFA 21 Data Analytics & Visualization
 In this project, we used the database of FIFA 21 players to check for correlations between different stats and draw conclusions/insights.
