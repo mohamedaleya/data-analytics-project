@@ -14,3 +14,5 @@ The notebook code unzips the dataset and splits it into the training and validat
 
 Download the "Weights Face Recognitions.h5" file here: https://www.file.io/download/oT5QYX0uKg7m
 
+The dataset will be uploaded shortly to Kaggle and the link will be added here.
+
