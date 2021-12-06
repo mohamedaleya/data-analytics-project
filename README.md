@@ -3,7 +3,9 @@
 PROJECT BY:
 
 **ALEYA Mohamed**
+
 **RIAHI Alaa**
+
 **BALI Aziz**
 
 ## PART 1: FIFA 21 Data Analytics & Visualization
