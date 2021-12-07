@@ -1,7 +1,5 @@
 # FIFA 21 Data Analytics & Visualization + Face Recognition Model of Football Players (8 classes)
 
-PROJECT BY:
-
 - **ALEYA Mohamed**
 - **RIAHI Alaa**
 - **BALI Aziz**
