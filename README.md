@@ -13,6 +13,3 @@ The notebook code unzips the dataset (fifa_player_dataset.zip) and splits it int
 
 Download the "Weights Face Recognitions.h5" file and add it to the same directory: https://www.file.io/download/oT5QYX0uKg7m
 Note: This file can be loaded with the Tensorflow in case of without training the model again to obtain the new weights.
-
-The dataset will be uploaded shortly to Kaggle and the link will be added here.
-
